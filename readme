@@ -1,0 +1,8 @@
+Supervisor : Dr. Koel Das, Assistant Professor.
+
+Department of Mathematics and Statistics, IISER Kolkata.
+
+Abstract : A seminar course was carried out on the topic of feature extraction along with the topic of classification. It involved the math- ematical derivation of features extraction techniques i.e. Principal Component Analysi(PCA) and Linear Discriminant Analysis(LDA). I collected different datasets from UCI repository and applied PCA and LDA techniques on different datasets. After reducing the dimensions
+of datasets using PCA and LDA, I compared the accuracy of classification using Bayes Classifier algorithm.
+
+A seminar course was carried out on the topic of classification.It involved the mathematical derivation of the Bayes classifier and calcu- lation of the different discriminant functions for the multivariate Gaussian densities on the basis of different types of covariance matrices(Σ= Σ i , Σ i= σ 2 I, Σ i = arbitrary). I created different synthetic datasets considering different types of covariance matrices and also downloaded some datasets from UCI repository such as iris dataset, letter recognition etc. and found the accuracy of classifier using different discriminant functions. Overall the high accuracy was achieved using Bayes classifiers on different datasets. I did all the computational work on MATLAB.
